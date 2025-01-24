@@ -4,6 +4,7 @@ Projem,çocuklar için geliştirilmiş bir mobil uygulama olup, çocukların şe
 
 Trello hesabı https://trello.com/b/kwWgQfcn/sekillerincevresimobiluygulama
 
-Diyagramların olduğu döküman Uçak İçi Mobil Uygulama diyagramları.docx
+Diyagramların olduğu döküman 
+[Ucak.Ici.Mobil.Uygulama.diyagramlari.docx](https://github.com/user-attachments/files/18541699/Ucak.Ici.Mobil.Uygulama.diyagramlari.docx)
 
-TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi lessons_1_20241113210805 (1).xlsx
+TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi :[lessons_1_20241113210805.1.xlsx](https://github.com/user-attachments/files/18541706/lessons_1_20241113210805.1.xlsx)
