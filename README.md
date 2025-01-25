@@ -8,3 +8,4 @@ Diyagramların olduğu döküman
 [Ucak.Ici.Mobil.Uygulama.diyagramlari.docx](https://github.com/user-attachments/files/18541699/Ucak.Ici.Mobil.Uygulama.diyagramlari.docx)
 
 TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi :[lessons_1_20241113210805.1.xlsx](https://github.com/user-attachments/files/18541706/lessons_1_20241113210805.1.xlsx)
+APK LİNKİ:https://drive.google.com/file/d/1bvHBgr7_uQ9MakPQ64lDV15PlEUeKTh-/view?usp=drive_link
