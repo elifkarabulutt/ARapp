@@ -1,19 +1,32 @@
-AR Mobil Uygulama: AR ile Çocuklar İçin Şekillerin Çevresi ve Alanlarını Bulma
+# AR Mobil Uygulama: Çocuklar İçin Şekillerin Çevresi ve Alanlarını Bulma
 
-Bu uygulama, çocuklar için eğlenceli ve öğretici bir artırılmış gerçeklik (AR) deneyimi sunuyor! Uygulama, çevrenizdeki nesneleri tarayarak onlara uygun 3 boyutlu şekiller oluşturur. Bu şekiller, çocukların geometri ve matematiksel kavramları daha iyi anlamalarına yardımcı olacak şekilde tasarlanmıştır.
+Bu uygulama, çocukların geometri ve matematiksel kavramları eğlenceli ve öğretici bir şekilde öğrenmelerine yardımcı olan bir artırılmış gerçeklik (AR) deneyimi sunmaktadır. Çocuklar, çevrelerindeki nesneleri tarayarak uygun 3D şekillerin oluşturulmasını izler ve ardından bu şekillerin alan ve hacim formüllerine ulaşarak matematiksel hesaplamalarla tanışırlar.
 
-Küçük kullanıcılar, kameraları aracılığıyla nesneleri gördükçe, her bir nesneye uygun şekil otomatik olarak belirlenir. Ardından, "Formül" butonuna tıklayarak, bu şekillerin alan ve hacim formüllerine ulaşabilirler. Böylece hem şekil bilgilerini öğrenirler hem de matematiksel hesaplamalarla tanışırlar.
+## Özellikler
 
-Çocukların geometriyi oyun yoluyla keşfetmelerini sağlayan bu uygulama, hem eğlenceli hem de eğitici bir öğrenme deneyimi sunuyor!
+- **AR Teknolojisi:** Çevrenizdeki nesneleri tanıyıp, her bir nesneye uygun 3 boyutlu şekiller oluşturulmasını sağlar.
+- **Eğitici İçerik:** Çocuklar, şekillerin çevresini ve alanlarını öğrenirken, interaktif bir şekilde şekil bilgilerini keşfederler.
+- **Formüller Sayfası:** "Formül" butonuna tıklayarak, şekillerin alan ve hacim hesaplamalarına dair detaylı bilgiye ulaşabilirsiniz.
+- **Eğlenceli Öğrenme:** Geometriyi oyun yoluyla keşfetmek için ideal bir araçtır.
 
+## Kullanılan Teknolojiler
 
-Trello hesabı https://trello.com/b/kwWgQfcn/sekillerincevresimobiluygulama
+- **Unity 3D:** Uygulamanın geliştirilmesinde kullanılan oyun motoru, artırılmış gerçeklik deneyimi sunmak için kullanıldı.
+- **AR Foundation:** Unity ile artırılmış gerçeklik deneyimi oluşturmak için kullanılan bir framework.
+- **C#:** Uygulamanın temel programlama dili.
+- **Vuforia / ARCore / ARKit:** AR işlevselliği için kullanılan platformlar (cihaz uyumluluğuna bağlı olarak değişebilir).
 
-Diyagramların olduğu döküman 
-[Ucak.Ici.Mobil.Uygulama.diyagramlari.docx](https://github.com/user-attachments/files/18541699/Ucak.Ici.Mobil.Uygulama.diyagramlari.docx)
+## Proje Kaynakları ve Belgeler
 
-TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi :[lessons_1_20241113210805.1.xlsx](https://github.com/user-attachments/files/18541706/lessons_1_20241113210805.1.xlsx)
+- **Trello Hesabı:** [Proje Yönetim Panosu](https://trello.com/b/kwWgQfcn/sekillerincevresimobiluygulama)
+- **Diyagramlar:** [Diyagramların Olduğu Döküman](Ucak.Ici.Mobil.Uygulama.diyagramlari.docx)
+- **TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi:** [Test Belgesi](lessons_1_20241113210805.1.xlsx)
 
-APK LİNKİ:https://drive.google.com/file/d/1yQpNCSa0N5Td_CGSktoOS8oVn7moqLe-/view?usp=drive_link
+## Uygulama İndirme ve Tanıtım
 
-Youtube Videosu:https://www.youtube.com/watch?v=eAI5U7VlHgE
+- **APK İndirme Linki:** [APK Dosyasını İndir](https://drive.google.com/file/d/1yQpNCSa0N5Td_CGSktoOS8oVn7moqLe-/view?usp=drive_link)
+- **YouTube Tanıtım Videosu:** [Proje Tanıtım Videosu](https://www.youtube.com/watch?v=eAI5U7VlHgE)
+
+## Sonuç
+
+Bu uygulama, çocukların geometriyi oyun yoluyla öğrenmelerini sağlayarak, matematiksel kavramları eğlenceli ve etkileşimli bir biçimde keşfetmelerine olanak tanır. Gelişmiş AR teknolojisi, çocuklara gerçek dünya ile dijital dünyayı entegre bir şekilde sunar.
