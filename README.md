@@ -19,8 +19,9 @@ Bu uygulama, çocukların geometri ve matematiksel kavramları eğlenceli ve ö�
 ## Proje Kaynakları ve Belgeler
 
 - **Trello Hesabı:** [Proje Yönetim Panosu](https://trello.com/b/kwWgQfcn/sekillerincevresimobiluygulama)
-- **Diyagramlar:** [Diyagramların Olduğu Döküman](Ucak.Ici.Mobil.Uygulama.diyagramlari.docx)
-- **TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi:** [Test Belgesi](lessons_1_20241113210805.1.xlsx)
+- **Diyagramlar:** [Diyagramların Olduğu Döküman][Ucak.Ici.Mobil.Uygulama.diyagramlari.docx](https://github.com/user-attachments/files/18710360/Ucak.Ici.Mobil.Uygulama.diyagramlari.docx)
+
+- **TÜBİTAK Teknolojik Hazırlık Seviyesi Belirleme Soru Testi:** [Test Belgesi][lessons_1_20241113210805.1.xlsx](https://github.com/user-attachments/files/18710364/lessons_1_20241113210805.1.xlsx)
 
 ## Uygulama İndirme ve Tanıtım
 
