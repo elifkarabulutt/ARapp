@@ -16,6 +16,25 @@ Bu uygulama, çocukların geometri ve matematiksel kavramları eğlenceli ve ö�
 - **C#:** Uygulamanın temel programlama dili.
 - **Vuforia / ARCore / ARKit:** AR işlevselliği için kullanılan platformlar (cihaz uyumluluğuna bağlı olarak değişebilir).
 
+## Kurulum Adımları
+1. **Unity 2022.3.54f1** sürümünü indirip yükleyin.
+2. Proje dosyasını bilgisayarınıza indirin.
+3. Unity ile proje dosyasını açın.
+4. Gerekli paketleri yüklemek için `Window > Package Manager` sekmesini kullanın.
+5. Android için **APK** oluşturmak istiyorsanız, `File > Build Settings` kısmında platformu **Android** olarak seçip `Build` butonuna tıklayın.
+
+## APK Kurulum Talimatları
+1. APK dosyasını telefonunuza indirin.
+2. Telefonunuzun **Ayarlar > Güvenlik** bölümünden **Bilinmeyen kaynaklara izin ver** seçeneğini aktif edin.
+3. İndirdiğiniz APK dosyasına tıklayarak kurulumu başlatın.
+
+**Not:** Uygulama, ARCore destekli Android cihazlarda sorunsuz çalışır. iPhone kullanıcıları için ARKit desteği gerekmektedir.
+
+## Kullanım Kılavuzu
+1. Uygulamayı açın ve kameranızı çevrenizdeki nesnelere doğrultun.
+2. AR teknolojisi ile nesneler otomatik olarak tanınır ve ekranda 3D şekiller oluşturulur.
+3. **Formül** butonuna tıklayarak seçilen şeklin alan ve hacim formüllerine ulaşabilirsiniz.
+
 ## Proje Kaynakları ve Belgeler
 
 - **Trello Hesabı:** [Proje Yönetim Panosu](https://trello.com/b/kwWgQfcn/sekillerincevresimobiluygulama)
